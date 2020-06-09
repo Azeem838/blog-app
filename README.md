@@ -1,73 +1,37 @@
-# Project Name
+# Blog App
 
-> One paragraph statement about the project.
+> Basic Blog App built with rails
 
-![screenshot](./app_screenshot.png)
+![screenshot](./Homepage.png)
 
-Additional description about the project and its features.
+Features:
+1. Displaying all Articles
+2. Commenting on Articles
+3. Add an image to your Articles
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
+- Ruby on Rails
 
-## Live Demo
+👤 **Azeem Ahmed**
 
-[Live Demo Link](https://livedemo.com)
+- Github: [@Azeem838](https://github.com/Azeem838)
 
+👤 Rajkumar Das
 
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
-
-To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
-
-👤 **Author2**
-
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@rajkumardas2701](https://github.com/rajkumardas2701)
+- Twitter: [@Rajkuma58621299](https://twitter.com/Rajkuma58621299)
+- Linkedin: [Rajkumar Das](https://www.linkedin.com/in/rajkumar-das-41308961/)
 
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](issues/).
+Feel free to check the [issues page](https://github.com/Azeem838/blog-app/issues).
 
 ## Show your support
 
 Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
 
 ## 📝 License
 
