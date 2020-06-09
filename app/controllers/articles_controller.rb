@@ -10,7 +10,7 @@ class ArticlesController < ApplicationController
     @article = Article.find(params[:id])
     @comment = Comment.new
     # @comment = @article.comments.new
-    @comment.article_id = @article.id    
+    @comment.article_id = @article.id
   end
 
   def new
@@ -23,7 +23,6 @@ class ArticlesController < ApplicationController
 
     # flash.notice = "Article '#{@article.title}' has been created"
     flash[:notice] = 'Article was created successfully.'
-
 
     redirect_to article_path(@article) # This sends you to show action, you can also use redirect_to @article
   end
