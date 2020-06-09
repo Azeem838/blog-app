@@ -2,7 +2,7 @@
 
 > Basic Blog App built with rails
 
-![screenshot](./app_screenshot.png)
+![screenshot](./Homepage.png)
 
 Features:
 1. Displaying all Articles
