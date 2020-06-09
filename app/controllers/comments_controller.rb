@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 class CommentsController < ApplicationController
   def create
     @comment = Comment.new(comment_params)
@@ -8,7 +6,7 @@ class CommentsController < ApplicationController
     @comment.save
 
     redirect_to article_path(@comment.article)
-    end
+  end
 
   private
 
